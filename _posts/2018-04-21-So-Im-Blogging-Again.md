@@ -3,7 +3,7 @@ layout: post
 title: So, I'm Blogging Again
 ---
 ![blogging]({{ site.baseurl }}/images/alphabet-arts-and-crafts-blog-Pexels-459688_[modified]_[Optimizilla].jpg)
-> I`m back in the saddle again
+> I`m back in the saddle again  
 > Out where a friend is a friend
 
 &mdash; Gene Autry &amp; Ray Whitley, 1939
