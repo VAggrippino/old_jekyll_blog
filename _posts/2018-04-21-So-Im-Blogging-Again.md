@@ -12,7 +12,7 @@ title: So, I'm Blogging Again
 
 Inspired by the consistent efforts of [some](https://steemit.com/@webgrrrl) [friends](https://steemit.com/@danieldoughty) and [an article](https://medium.freecodecamp.org/every-developer-should-have-a-blog-heres-why-and-how-to-stick-with-it-5fd55a247fbf) at freeCodeCamp's blog, I decided to start blogging again.
 
-I've been using GitHub to organize most of my recent efforts and I figured that blogging with [Jekyll](https://jekyllrb.com/) and hosting for free with [GitHub Pages](https://pages.github.com/) would be an ideal solution. All I needed to do is create a new project named *blog*, enable GitHub Pages, and start writing [Markdown](https://github.github.com/gfm/) files. No PHP, no server, no database, no security or plugin updates... perfect, right?
+I've been using GitHub to organize most of my recent efforts and I figured that blogging with [Jekyll](https://jekyllrb.com/) and hosting for free with [GitHub Pages](https://pages.github.com/) would be an ideal solution. All I need to do is create a new project named *blog*, enable GitHub Pages, and start writing [Markdown](https://github.github.com/gfm/) files. No PHP, no server, no database, no security or plugin updates... perfect, right?
 
 It's not that easy...
 
