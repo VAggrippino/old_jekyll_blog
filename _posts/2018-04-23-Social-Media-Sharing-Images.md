@@ -3,7 +3,7 @@ layout: post
 title: Social Media Sharing Images?
 image: https://vaggrippino.github.io/blog/images/photomania-f698995a9b07588d6c0f59bc982f65e6.jpg
 ---
-<p style="align: center">
+<p style="text-align: center;">
 ![photo]({{ site.baseurl }}/images/photomania-f698995a9b07588d6c0f59bc982f65e6.jpg)
 </p>
 
