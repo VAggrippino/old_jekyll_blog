@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What's Your Stack?
+image: https://vaggrippino.github.io/blog/images/asphalt-balance-blur-Pexels-268018_[modified]-min.jpg
 ---
 ![stack]({{ site.baseurl }}/images/asphalt-balance-blur-Pexels-268018_[modified]-min.jpg)
 Years ago, I proudly applied the <abbr title="Linux, Apache, MySQL, PHP">LAMP</abbr> stack to all of my web development efforts. Never mind that it was smack dab in the middle of the time when PHP deserved its bad reputation and most, if not all, of the code that I wrote was as bad as the worst out there. I was making money. I was confident, working steadily, and proud of my work.

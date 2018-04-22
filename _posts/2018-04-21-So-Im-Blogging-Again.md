@@ -1,6 +1,7 @@
 ---
 layout: post
 title: So, I'm Blogging Again
+image: https://vaggrippino.github.io/blog/images/alphabet-arts-and-crafts-blog-Pexels-459688_[modified]_[Optimizilla].jpg
 ---
 ![blogging]({{ site.baseurl }}/images/alphabet-arts-and-crafts-blog-Pexels-459688_[modified]_[Optimizilla].jpg)
 > I`m back in the saddle again  
