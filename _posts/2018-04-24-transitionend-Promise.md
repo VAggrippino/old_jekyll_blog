@@ -10,16 +10,18 @@ I'm working on a page that displays thumbnail images. When I click on a thumbnai
 
 Here's some pseudocode that shows what I want to happen...
 
-    thumbnail.addEventListener('click', e => {
-      if (infoBox.isVisible()) {
-        // hide the info box (CSS transition)
-        // after the transition ends, populate the image details
-      } else {
-        // populate the image details immediately
-      }
-        // show the info box (CSS transition)
-      }
-    })
+{% highlight javascript %}
+thumbnail.addEventListener('click', e => {
+  if (infoBox.isVisible()) {
+    // hide the info box (CSS transition)
+    // after the transition ends, populate the image details
+  } else {
+    // populate the image details immediately
+  }
+    // show the info box (CSS transition)
+  }
+})
+{% endhighlight %}
 
 The browser triggers a [`transitionend` event](https://developer.mozilla.org/en-US/docs/Web/Events/transitionend) when a transition finishes, but it's not fired at all if the info box is already hidden. A function that hides the element and returns a [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises) would be ideal. The Promise would be resolved after the transition completed or immediately if the info box was already hidden, but I don't use JavaScript to hide or show an element. I typically just toggle a `hidden` class and let the CSS animation do the work, so we can't determine when the animation has completed.
 
