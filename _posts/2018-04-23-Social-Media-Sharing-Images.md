@@ -2,6 +2,7 @@
 layout: post
 title: Social Media Sharing Images?
 image: https://vaggrippino.github.io/blog/images/photomania-f698995a9b07588d6c0f59bc982f65e6.jpg
+excerpt: Use meta tags for Facebook's Open Graph and Twitter's Cards to display a different image when sharing Jekyll blog posts on social media.
 ---
 <img style="display: block; margin: auto;" alt="photo" src="{{ site.baseurl }}/images/photomania-f698995a9b07588d6c0f59bc982f65e6.jpg">
 
