@@ -30,5 +30,5 @@ I found a good solution on my second attempt at [this *Gist*](https://gist.githu
 
 Here's my demo inspired by the Gist:
 
-<p data-height="265" data-theme-id="dark" data-slug-hash="pVgjjj" data-default-tab="js,result" data-user="VAggrippino" data-embed-version="2" data-pen-title="CSS `transitionend` event with a Promise" class="codepen">See the Pen <a href="https://codepen.io/VAggrippino/pen/pVgjjj/">CSS `transitionend` event with a Promise</a> by Vince Aggrippino (<a href="https://codepen.io/VAggrippino">@VAggrippino</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<p data-height="431" data-theme-id="dark" data-slug-hash="pVgjjj" data-default-tab="js,result" data-user="VAggrippino" data-embed-version="2" data-pen-title="CSS `transitionend` event with a Promise" class="codepen">See the Pen <a href="https://codepen.io/VAggrippino/pen/pVgjjj/">CSS `transitionend` event with a Promise</a> by Vince Aggrippino (<a href="https://codepen.io/VAggrippino">@VAggrippino</a>) on <a href="https://codepen.io">CodePen</a>.</p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
