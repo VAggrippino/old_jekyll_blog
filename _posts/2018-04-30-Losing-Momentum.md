@@ -12,7 +12,7 @@ About three weeks ago, I chose one from the list and started work. Now I'm at a 
 
 *This* is a critical time. I know all too well that this happens in any project that takes more than a couple of days to finish.
 
-Admittedly, my mental stamina is quite low. I feel like it's my own fault and, simultaneously, like it was completely out of my control.
+Admittedly, my mental stamina is quite low. It's my own fault, but at the same time I feel like it was completely out of my control.
 
 For several years after I got out of the Army, I coasted. I did quite well for myself. I had no focus at all, but I had endless energy and boundless enthusiasm. Then I got sick. My energy disappeared and my enthusiasm turned to fear. My constant worry that I would trigger another *episode* taught me to *back off* whenever I felt stress. I got very good at *backing off* and lost the ability to *follow through*.
 
