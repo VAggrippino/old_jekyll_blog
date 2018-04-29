@@ -3,7 +3,7 @@ layout: post
 title: The Frustrating Flaw in Online Learning
 image: https://vaggrippino.github.io/blog/images/baby-2709666_640.jpg
 ---
-<img style="display: block; margin: auto;" alt="Portfolio?" src="https://vaggrippino.github.io/blog/images/baby-2709666_640.jpg">
+<img style="display: block; margin: auto;" alt="Confused Baby Learner" src="https://vaggrippino.github.io/blog/images/baby-2709666_640.jpg">
 Online courses all seem to share one flaw... To put it bluntly, they piss me off... Inconsistent information, outdated materials, poor explanation of key concepts, and, sometimes, patently incorrect information. But if I stop to think about it for a moment, it's actually a feature.
 
 I've taken advantage of **a lot** of online curriculum. I've been active at [freeCodeCamp](https://www.freecodecamp.org/vaggrippino), [Udemy](https://www.udemy.com/user/vince-aggrippino/), Udacity, [Codecademy](https://www.codecademy.com/vaggrippino), [Code School](https://www.codeschool.com/users/vaggrippino), Coursera, [Khan Academy](https://www.khanacademy.org/profile/vaggrippino/), and edX, just to name a few. 

@@ -1,9 +1,9 @@
----
+
 layout: post
 title: Certifications Are Worthless
 image: https://vaggrippino.github.io/blog/images/1257361658961176606DooFi_Certificate.svg.hi.png
 ---
-<img style="display: block; margin: auto;" alt="Portfolio?" src="https://vaggrippino.github.io/blog/images/1257361658961176606DooFi_Certificate.svg.hi.png">
+<img style="display: block; margin: auto;" alt="Certification" src="https://vaggrippino.github.io/blog/images/1257361658961176606DooFi_Certificate.svg.hi.png">
 There are many published opinions on the value of IT certifications when you're looking for a job. If you do a web search, you'll find 'em. They range from "it depends on the certification" to "they're absolutely essential". Well, I'm going to go out on a limb here and say that certifications are nearly worthless.
 
 Those who write about IT certification usually have something at stake. Either there's a financial incentive or they want to emphasize their own expertise. The point is, you can't trust 'em. I can't really say I'm that much different... My [Front End Certification](https://www.freecodecamp.org/vaggrippino/front-end-certification) from freeCodeCamp is the only "education" item I can list on my résumé. It' would benefit me greatly to convince people that my certification is very valueable, but I guess my honesty is my downfall. In this digital age, that certificate alone isn't even worth the paper it's not printed on... And, wouldn't you know it, I'm unemployed.

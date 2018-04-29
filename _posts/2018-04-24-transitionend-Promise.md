@@ -3,7 +3,7 @@ layout: post
 title: transitionend Promise
 image: https://vaggrippino.github.io/blog/images/20180424_041449_transitionend_Promise_demo.gif
 ---
-<img style="display: block; margin: auto;" alt="demo" src="https://vaggrippino.github.io/blog/images/20180424_041449_transitionend_Promise_demo.gif">
+<img style="display: block; margin: auto;" alt="transitionend demo" src="https://vaggrippino.github.io/blog/images/20180424_041449_transitionend_Promise_demo.gif">
 I'm working on a page that displays thumbnail images. When I click on a thumbnail I want it to show an info box containing more image details. I'm using a CSS transition on the info box and I want to populate the image details while the info box is hidden. If the info box is already visible from clicking on a different thumbnail, I need to hide it first and populate the image details after the transition completes.
 
 Here's some pseudocode that shows what I want to happen...

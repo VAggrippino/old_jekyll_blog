@@ -3,7 +3,7 @@ layout: post
 title: Work / Life Imbalance
 image: https://vaggrippino.github.io/blog/images/scale-2634795_640.jpg
 ---
-<img style="display: block; margin: auto;" alt="Portfolio?" src="https://vaggrippino.github.io/blog/images/scale-2634795_640.jpg">
+<img style="display: block; margin: auto;" alt="Scales" src="https://vaggrippino.github.io/blog/images/scale-2634795_640.jpg">
 You're watching YouTube when you see a strange video entitled "No matter what, the work stays on!" ...
 
 The scene opens to a large set of balance scales resting on a low platform. A man puts a big shiny metal weight embossed with the word "work" on the left side of the scales. Next to it, he puts another weight. This one is marked "learning".
