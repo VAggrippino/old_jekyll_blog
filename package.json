@@ -1,0 +1,25 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "Vince Aggrippino's blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VAggrippino/blog.git"
+  },
+  "author": "",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/VAggrippino/blog/issues"
+  },
+  "homepage": "https://github.com/VAggrippino/blog#readme",
+  "devDependencies": {
+    "node-sass": "^4.11.0",
+    "stylelint": "^9.9.0",
+    "stylelint-config-recommended-scss": "^3.2.0",
+    "stylelint-scss": "^3.4.1"
+  }
+}
