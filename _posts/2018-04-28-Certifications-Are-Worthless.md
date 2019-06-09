@@ -2,6 +2,8 @@
 layout: post
 title: Certifications Are Worthless
 image: https://vaggrippino.github.io/blog/images/1257361658961176606DooFi_Certificate.svg.hi.png
+external_url: https://www.aggrippino.com/certificates-are-worthless/
+external_site: aggrippino.com
 ---
 <img style="display: block; margin: auto;" alt="Certification" src="https://vaggrippino.github.io/blog/images/1257361658961176606DooFi_Certificate.svg.hi.png">
 There are many published opinions on the value of IT certifications when you're looking for a job. If you do a web search, you'll find 'em. They range from "it depends on the certification" to "they're absolutely essential". Well, I'm going to go out on a limb here and say that certifications are nearly worthless.

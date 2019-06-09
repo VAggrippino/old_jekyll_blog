@@ -2,6 +2,8 @@
 layout: post
 title: Work / Life Imbalance
 image: https://vaggrippino.github.io/blog/images/scale-2634795_640.jpg
+external_url: https://www.aggrippino.com/work-life-imbalance/
+external_site: aggrippino.com
 ---
 <img style="display: block; margin: auto;" alt="Scales" src="https://vaggrippino.github.io/blog/images/scale-2634795_640.jpg">
 You're watching YouTube when you see a strange video entitled "No matter what, the work stays on!" ...

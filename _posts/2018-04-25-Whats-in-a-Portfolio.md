@@ -2,6 +2,8 @@
 layout: post
 title: What's in a Portfolio?
 image: https://vaggrippino.github.io/blog/images/Portfolio_.svg
+external_url: https://www.aggrippino.com/whats-in-a-portfolio/
+external_site: aggrippino.com
 ---
 <img style="display: block; margin: auto;" alt="Portfolio?" src="https://vaggrippino.github.io/blog/images/Portfolio_.svg">
 What am I supposed to put in my portfolio? Ideally, I'd have several projects that I built while learning as well as links to past employers' websites that I contributed to. I should also have some testimonials from people I've worked with in the past, but I don't have any of this.

@@ -9,6 +9,34 @@
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
 
+//
+// External URLs
+//
+.external-url::before,
+.external-url::after {
+  content: '';
+  display: inline-block;
+  height: 0.8em;
+  width: 0.8em;
+}
+
+.external-url::before {
+  margin-right: 0.25em;
+  background-size: cover;
+}
+
+.external-url::after {
+  background: url('/images/icons/external-link-alt.svg') no-repeat;
+  background-size: cover;
+  margin-left: 0.25em;
+}
+
+.aggrippino\.com::before {
+  background: url('/images/icons/aggrippino.com_favicon.png') no-repeat;
+  background-size: contain;
+}
+
+
 /**************/
 /* BASE RULES */
 /**************/

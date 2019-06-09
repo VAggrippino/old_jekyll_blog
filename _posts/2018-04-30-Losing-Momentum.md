@@ -2,6 +2,8 @@
 layout: post
 title: Losing Momentum
 image: https://vaggrippino.github.io/blog/images/headache-1910644_640.jpg
+external_url: https://www.aggrippino.com/losing-momentum/
+external_site: aggrippino.com
 ---
 <img style="display: block; margin: auto;" alt="Demotivated" src="https://vaggrippino.github.io/blog/images/headache-1910644_640.jpg">
 I'm losing my momentum. That *new project* enthusiasm is gone and I'm faced with distraction and doubt. What do I do? Choose an easier alternative? Prepare more before continuing? Or push forward at a unique and considerable risk?

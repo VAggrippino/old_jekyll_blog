@@ -2,6 +2,8 @@
 layout: post
 title: The Frustrating Flaw in Online Learning
 image: https://vaggrippino.github.io/blog/images/baby-2709666_640.jpg
+external_url: https://www.aggrippino.com/the-frustrating-flaw-in-online-learning/
+external_site: aggrippino.com
 ---
 <img style="display: block; margin: auto;" alt="Confused Baby Learner" src="https://vaggrippino.github.io/blog/images/baby-2709666_640.jpg">
 Online courses all seem to share one flaw... To put it bluntly, they piss me off... Inconsistent information, outdated materials, poor explanation of key concepts, and, sometimes, patently incorrect information. But if I stop to think about it for a moment, it's actually a feature.

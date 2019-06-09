@@ -2,6 +2,8 @@
 layout: post
 title: So, I'm Blogging Again
 image: https://vaggrippino.github.io/blog/images/alphabet-arts-and-crafts-blog-Pexels-459688_[modified]_[Optimizilla].jpg
+external_url: https://www.aggrippino.com/so-im-blogging-again/
+external_site: aggrippino.com
 ---
 ![blogging]({{ site.baseurl }}/images/alphabet-arts-and-crafts-blog-Pexels-459688_[modified]_[Optimizilla].jpg)
 > I`m back in the saddle again  

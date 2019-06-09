@@ -10,7 +10,14 @@
     <![endif]-->
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+
+    {% if page.canonical_url %}
+      <link rel="canonical" href="{{ page.external_url }}">
+    {% else %}
+      <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+      <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+    {% endif %}
+
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
